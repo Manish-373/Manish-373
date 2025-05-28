@@ -4,9 +4,9 @@
 <h3 align="center">An Engineering Undergraduate student 💻 from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manish-373&label=Profile%20views&color=blueviolet&style=plastic" alt="Manish-Warghade"/> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
+- 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **Web Development & Android Development**
+- 💬 Ask me about **Web Development & Android Development, SQL, Java**
   
 - 📫 How to reach me **manishwarghade3@gmail.com**
 
